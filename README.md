@@ -1,5 +1,5 @@
 # hey there 👋  
-I am Apoorva Rawat.  
+I am Aporrva Rawat.  
 
 ## About Me:  
 👨‍💻 I am a developer from Uttarakhand, India.  
